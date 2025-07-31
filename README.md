@@ -9,11 +9,10 @@ A cross-platform Flutter application for browsing, reviewing, and managing favor
 - User authentication (login/logout)
 - Browse a list of books
 - View detailed information and reviews for each book
-- Add, edit, and delete reviews
+- Add reviews
 - Mark books as favorites
 - Search for books
-- User profile management
-
+  
 
 ## Getting Started
 
