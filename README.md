@@ -2,7 +2,7 @@
 
 A cross-platform Flutter application for browsing, reviewing, and managing favorite books. Users can log in, search for books, read and write reviews, and manage their favorite books. The app communicates with a RESTful API backend.
 
---
+---
 
 ## Features
 
