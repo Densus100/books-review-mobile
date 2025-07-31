@@ -51,7 +51,6 @@ Make sure to clone and run the backend locally or deploy it, then update the API
 - `lib/screens/` – UI screens (Home, Login, Book Detail, etc.)
 - `lib/services/` – API service classes
 - `lib/widgets/` – Reusable UI components
-- `test/` – Widget and unit tests
 
 ### Configuration
 - The API base URL is set to `http://10.0.2.2:3000/api/v1` (see `lib/services/api_service.dart`). Change this if your backend runs elsewhere.
